@@ -1,0 +1,5 @@
+Flask==2.0.2
+requests==2.26.0
+ptvsd==4.3.2 # Required for debugging.
+multidict==5.2.0
+wordcloud==1.8.1
